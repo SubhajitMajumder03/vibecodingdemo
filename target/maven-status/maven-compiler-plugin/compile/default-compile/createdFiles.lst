@@ -1,0 +1,11 @@
+com/example/pdfsummarizer/service/TextSummarizerService$ScoredSentence.class
+com/example/pdfsummarizer/service/PdfSummarizerService.class
+com/example/pdfsummarizer/PdfSummarizerApplication.class
+com/example/pdfsummarizer/model/SummaryRequest.class
+com/example/pdfsummarizer/service/PdfReaderService.class
+com/example/pdfsummarizer/controller/PdfSummarizerController$1.class
+com/example/pdfsummarizer/model/SummaryResponse.class
+com/example/pdfsummarizer/service/PdfGeneratorService.class
+com/example/pdfsummarizer/controller/PdfSummarizerController$1$1.class
+com/example/pdfsummarizer/service/TextSummarizerService.class
+com/example/pdfsummarizer/controller/PdfSummarizerController.class

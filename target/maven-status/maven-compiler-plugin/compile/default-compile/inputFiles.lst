@@ -1,0 +1,8 @@
+/workspace/src/main/java/com/example/pdfsummarizer/service/PdfReaderService.java
+/workspace/src/main/java/com/example/pdfsummarizer/model/SummaryRequest.java
+/workspace/src/main/java/com/example/pdfsummarizer/service/PdfGeneratorService.java
+/workspace/src/main/java/com/example/pdfsummarizer/service/PdfSummarizerService.java
+/workspace/src/main/java/com/example/pdfsummarizer/PdfSummarizerApplication.java
+/workspace/src/main/java/com/example/pdfsummarizer/model/SummaryResponse.java
+/workspace/src/main/java/com/example/pdfsummarizer/service/TextSummarizerService.java
+/workspace/src/main/java/com/example/pdfsummarizer/controller/PdfSummarizerController.java
